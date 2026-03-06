@@ -1,0 +1,4 @@
+interface:
+  display_name: "Auto Commit & Push"
+  short_description: "Auto commit+push after major edits"
+  default_prompt: "At the end of substantial repo changes, run the bundled auto_commit_push.sh workflow to commit and push once (skip small diffs unless forced), then report commit SHA, branch, and destination."
