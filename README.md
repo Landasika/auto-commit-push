@@ -112,4 +112,3 @@ git push -u origin <branch>
 
 3. Push 认证失败（token/权限问题）
 - 重新 `gh auth login`，或检查 PAT 是否有仓库写权限（`repo` scope）
-# auto-commit-push
